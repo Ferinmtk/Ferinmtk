@@ -1,5 +1,13 @@
-# 💫 About Me:
-# 🌌 The World of Ferin<br><br>Hey there, wanderer! Welcome to my corner of the digital universe. Here's a glimpse into what makes me tick:<br><br>🔧 **Currently Building**:  <br>Turning my ideas into reality—working on a personal webpage that feels as dynamic as the code behind it.  <br><br>🌟 **Dream Collaborations**:  <br>Creating applications that make technology feel like magic. If you're into blending functionality with creativity, we need to talk.  <br><br>💡 **Curious Explorer**:  <br>Always learning, always experimenting. Right now, it's Bash scripting and the secrets of Linux systems. Tomorrow? Who knows.  <br><br>✨ **Fun Fact**:  <br>Some of my projects are inspired by East African culture—it's all about weaving technical precision with soul.  <br><br>👾 **Philosophy**:  <br>I believe every piece of software is a story waiting to be told. And I’m here to write mine.<br><br>---<br><br>Ready to create something amazing together? Let’s connect and leave a mark on the digital world!<br>
+🌌 The World of Ferrin | Software Developer<br><br>
+Hey there, wanderer! Welcome to my corner of the digital universe. Here's a glimpse into what makes me tick:<br><br>
+🔧 **Currently Building**:<br>
+Turning my ideas into reality—working on a personal webpage that feels as dynamic as the code behind it.<br><br>
+🌟 **Dream Collaborations**:<br>
+Creating applications that make technology feel like magic.<br><br>
+💡 **Curious Explorer**:<br>
+Always learning, always experimenting. Right now, it's Bash scripting and the secrets of Linux systems. Tomorrow? Who knows.<br><br>
+👾 **Philosophy**:<br>
+I believe every piece of software is a story waiting to be told. And I’m here to write mine.
 
 
 ## 🌐 Socials:
