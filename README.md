@@ -1,4 +1,7 @@
 🌌 The World of Ferrin | Software Developer<br><br>
+
+Potfolio: Building a 3D portfolio still on progress
+
 Hey there, wanderer! Welcome to my corner of the digital universe. Here's a glimpse into what makes me tick:<br>
 🔧 **Currently Building**:<br>
 Turning my ideas into reality—working on a personal webpage that feels as dynamic as the code behind it.<br>
