@@ -1,4 +1,4 @@
-🌌 The World of Ferrin | Software Developer<br><br>
+🌌 | Software Developer<br><br>
 
 Potfolio: Building a 3D portfolio still on progress
 
