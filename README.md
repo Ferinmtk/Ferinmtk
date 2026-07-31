@@ -1,16 +1,4 @@
-🌌 | Software Developer<br><br>
-
-Potfolio: Building a 3D portfolio still on progress
-
-Hey there, wanderer! Welcome to my corner of the digital universe. Here's a glimpse into what makes me tick:<br>
-🔧 **Currently Building**:<br>
-Turning my ideas into reality—working on a personal webpage that feels as dynamic as the code behind it.<br>
-🌟 **Dream Collaborations**:<br>
-Creating applications that make technology feel like magic.<br>
-💡 **Curious Explorer**:<br>
-Always learning, always experimenting. Right now, it's Bash scripting and the secrets of Linux systems. Tomorrow? Who knows.<br>
-👾 **Philosophy**:<br>
-I believe every piece of software is a story waiting to be told. And I’m here to write mine.
+ | Software Developer<br><br>
 
 
 ## 🌐 Socials:
