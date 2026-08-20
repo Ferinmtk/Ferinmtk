@@ -1,13 +1,29 @@
- | Software Developer<br><br>
+### Ferrin Mutuku — Software Developer
 
+Python packaging and build systems, based in Kenya.
+[conda-forge](https://github.com/orgs/conda-forge/people?query=Ferinmtk) member and feedstock maintainer.
+
+## 📦 Open source
+
+**conda-forge** — packaging Python and compiled projects across Linux, macOS and Windows.
+
+- [**argon2-cffi-bindings** #16](https://github.com/conda-forge/argon2-cffi-bindings-feedstock/pull/16) — *merged.* Migrated the recipe to the `scikit-build-core` backend after upstream dropped setuptools, then fixed a CMake generator fallback and a `CMP0190` policy failure that broke every cross-compiled target. Green on 6 platforms × 6 Python versions.
+- [**chktex** #10](https://github.com/conda-forge/chktex-feedstock/pull/10) — restored Windows builds, disabled since April. The blocking `configure` probe guarded code that was never compiled; also fixed a `SCRIPTS` environment collision that corrupted `make install`.
+- [**mobile-money-analyzer**](https://github.com/conda-forge/staged-recipes/pull/34575) — *merged.* Recipe accepted into conda-forge; I maintain the feedstock.
+
+**PyPI** — [`mobile-money-analyzer`](https://pypi.org/project/mobile-money-analyzer/) · `pip install mobile-money-analyzer`
+Parses M-Pesa, Airtel Money and T-Kash PDF statements into categorised spending data. Fully offline. Released via trusted publishing (OIDC), tested on Linux, Windows and macOS across Python 3.10–3.14.
+
+## 🛠️ Selected projects
+
+- [**mobile-money-analyser**](https://github.com/Ferinmtk/mobile-money-analyser) — mobile money statement parser: CLI, Streamlit dashboard, CSV export
+- [**mpesa-stk-service**](https://github.com/Ferinmtk/mpesa-stk-service) — M-Pesa Daraja STK Push in Python, with token caching, idempotent callbacks and reconciliation
+- [**kenya-crop-price-forecast**](https://github.com/Ferinmtk/kenya-crop-price-forecast) — monthly crop price forecasting with leakage tests and honest baseline comparison
+- [**remote-machine-access**](https://github.com/Ferinmtk/remote-machine-access) — manage a machine behind NAT from the browser; agent dials out to a relay, no port forwarding
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ferinmtk@gmail.com) 
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
